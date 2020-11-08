@@ -1,2 +1,3 @@
 # middlewares
-Go common gRPC and HTTP middlewares 
+
+Go common gRPC and HTTP middlewares.
